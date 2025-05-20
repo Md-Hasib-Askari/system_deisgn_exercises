@@ -1,7 +1,5 @@
 # System Design Excercises
 
----
-
 ### Beginner Exercises
 
 **Focus:** Core concepts, basic system components, trade-offs
